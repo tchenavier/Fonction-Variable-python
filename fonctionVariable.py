@@ -6,4 +6,4 @@ yB = float(input ("abscisse de B"))
 a=(yB-yA)/(xB-xA)
 b=yA-a*xA
 
-Print("y=",a,"x+",b)
+print("y=",a,"x+",b)
