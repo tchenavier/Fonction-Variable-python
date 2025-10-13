@@ -5,7 +5,7 @@ b = float(input ("La valeur de b"))
 c = float(input ("La valeur de c"))
 
 d=b**2-4*a*c
-if (a==0):
+if (a!=0):
     if (d==0):   #condition pour si d=0 donc une seul racine
         X=-b/(2*a)
         print("Une seule racinne réelle qui est",X)
