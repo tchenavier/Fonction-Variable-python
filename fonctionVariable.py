@@ -1,3 +1,5 @@
+
+
 xA = float(input ("ordonner de A\n"))#pour les entrée utilisateur
 xB = float(input ("ordonner de B\n"))
 yA = float(input ("abscisse de A\n"))
